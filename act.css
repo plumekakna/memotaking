@@ -17,8 +17,21 @@
 .act-text-red {
     color:#7F2900;
 }
+
 .act-text-right{
     text-align: right;
 }
-.bg-violet{background-color:Violet}
-.bg-half{background-color:#C230CC}
+
+/*background color*/
+.bg-violet
+{background-color:Violet
+}
+.bg-half
+{background-color:#C230CC
+}
+
+/*size picture*/
+.size-pic{
+width: 500px;
+height: auto;
+}
