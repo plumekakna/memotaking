@@ -23,12 +23,16 @@
 }
 
 /*background color*/
-.bg-violet
-{background-color:Violet
+.bg-Grey
+{background-color:#8c8c8c
 }
-.bg-half
-{background-color:#C230CC
+.bg-halfGrey
+{background-color:#778899
 }
+.bg-SlateGray
+{background-color:#708090
+}
+
 
 /*size picture*/
 .size-pic{
@@ -39,3 +43,4 @@ height: auto;
 width: 150px;
 height: auto;
 }
+
